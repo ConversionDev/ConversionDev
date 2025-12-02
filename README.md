@@ -17,23 +17,4 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </a>
   </p>
-
-  ---
-  
-  ### 📈 GitHub Statistics
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ConversionDev&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=008080" 
-         alt="ConversionDev's GitHub Stats"/>
-    &nbsp;&nbsp;&nbsp; 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConversionDev&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=008080" 
-         alt="ConversionDev's Top Languages"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConversionDev&theme=default&hide_border=true&ring=008080&fire=008080" 
-         alt="ConversionDev GitHub Streak"/>
-  </p>
-  
-  ---  
 </div>
